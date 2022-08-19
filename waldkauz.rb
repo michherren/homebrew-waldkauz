@@ -11,7 +11,7 @@ class Waldkauz < Formula
 
   on_macos do
     url "https://github.com/michherren/waldkauz/releases/download/v0.0.7/waldkauz_0.0.7_Darwin_x86_64.tar.gz"
-    sha256 "6fb345f3b75dc0d2df4adeba16c830575e1b1176de7c6a432aab3b4e3b2abbbc"
+    sha256 "8b5dd9fc631e089a24f4ae10065df229d5d3313ac3ac60bd4dbf700febd82d9a"
 
     def install
       bin.install "waldkauz"
